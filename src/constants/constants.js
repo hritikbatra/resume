@@ -1,7 +1,7 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'CRUD Application',
+    description: "Using Flask, SQLalchemy, Bootstrap and JS, I built a Full Stack CRUD Application - from start to finish. The App is called MyToDo and it is a simple text entry app that allows users to post their daily schedules.",
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://google.com',
@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2018, text: 'Started With C++ Object Oriented Programming', },
+  { year: 2019, text: 'Highest Scorer in my Subject of Computer Science', },
+  { year: 2020, text: 'Worked as Database Admin Assist at Trent University', },
+  { year: 2021, text: 'Worked for JK Webcom Technologies as an Inter Web Developer', },
+  { year: 2022, text: 'BS. Computer Science : September 2022',},
 ];
