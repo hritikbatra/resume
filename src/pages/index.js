@@ -7,9 +7,14 @@ import Timeline from '../components/TimeLine/TimeLine';
 import { Layout } from '../layout/Layout';
 import { Section } from '../styles/GlobalComponents';
 
+
+const TITLE = 'Hritik Portfolio'
+
 const Home = () => {
   return (
+          
     <Layout>
+      <title>{ TITLE }</title>
       <Section grid>
         <Hero />
         <BgAnimation />

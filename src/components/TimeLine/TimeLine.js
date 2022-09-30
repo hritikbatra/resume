@@ -47,7 +47,7 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
        Two Quotations<br />
-       “Real programmers can write assembly code in any language.” by Larry Wall. <br/>  "I know assembly language." by Hritik Batra
+       “Real programmers can write assembly code in any language.” by Larry Wall. <br/>  "I know assembly language." by<br/> Hritik Batra
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
