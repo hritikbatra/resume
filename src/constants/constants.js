@@ -4,8 +4,8 @@ export const projects = [
     description: "Using Flask, SQLalchemy, Bootstrap and JS, I built a Full Stack CRUD Application - from start to finish. The App is called MyToDo and it is a simple text entry app that allows users to post their daily schedules.",
       image: '/images/1.png',
       tags: ['SQLAlchemy', 'Flask', 'Bootstrap', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/hritikbatra/fullstack-backend',
+    visit: 'https://github.com/hritikbatra/fullstack-backend',
     id: 0,
   },
   {
